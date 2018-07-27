@@ -1,0 +1,23 @@
+body {
+	background-color: rgb(	255,20,147);
+	font-family: 'Montserrat', sans-serif;
+	margin: 	0px;
+
+}
+
+button {
+	height:45px;
+	width:120px;
+	background-color:rgb(232, 44, 12);
+	color:#fff;
+	border:1px solid #fff;
+	cursor:pointer;
+	margin-top:20px;
+
+}
+
+h1 {
+	color:;
+	text-align: center;
+	margin: 0px 0px 10px 0px;
+}
